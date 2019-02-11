@@ -1,4 +1,1 @@
-iru
-===
-
-IRÜ
+# Információs rendszerek üzemeltetése
